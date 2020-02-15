@@ -27,7 +27,7 @@ const Nav = () => (
           </ul>
 
           
-          <ul>{window.location.pathname !== `${BASE_PATH}/resume` ? <Link to="/resume" className="button">Download Resume</Link> : <Link to="/about" className="button">Download Resume</Link>}
+          <ul>{ <a href ="/Documents/PdfResume.pdf" download className="button">Download Resume</a>}
         </ul></li>
       </ul>
     </section>

@@ -9,10 +9,10 @@ const Index = () => (
       <header>
         <div className="title">
           <h2><Link to="/">WELCOME !</Link></h2>
-          <p>A beautiful, responsive, react app written with modern Javascript.</p>
+          <p>This is a continously updated website to tell you about myself</p>
         </div>
       </header>
-      <p> Hello! Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
+      <p> Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/Works">Works</Link>, {' '}

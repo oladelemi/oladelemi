@@ -16,10 +16,7 @@ const data = [
     path: '/works',
     label: 'Works',
   },
-  {
-    path: '/stats',
-    label: 'Stats',
-  },
+  
   {
     path: '/blog',
     label: 'Blog',

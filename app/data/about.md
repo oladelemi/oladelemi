@@ -1,15 +1,15 @@
 
 #### Intro
-I am a primary job functions are as a data scientist and software engineer.
+I go by r'[Abdula|la]*teef'. That's like three different versions of my name i acknowledge so far. 
+I am a Software Developer, Cyber Security Associate or Data Scientist by Day and a Human Resources Generalist by Night!
 
 #### Currently
 
 #### Travel / Geography
 
-#### Fun facts
 
-#### I dream of
-- always finding inspiration.
-- enabling a brighter future.
-- doing better.
-- no one checking my commit history for early drafts of this file.
+#### Fun Facts
+- I daydream a lot 
+- I like putting things apart just to know if i can put them back together
+- I don't know all of the signs and their meanings 
+- I like debugging code 
