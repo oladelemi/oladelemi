@@ -4,8 +4,8 @@ const data = [
     title: 'Machine Learnign to Classify proteins from Raw Sequence Data',
     subtitle: 'Datascience',
     link:  '',
-    image: '/Documents/scenery.jpg',
-    date:  '',
+    image: '/Documents/protein.png',
+    date:  'November 12, 2019',
     desc:  '',
   },
 ];

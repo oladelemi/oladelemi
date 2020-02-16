@@ -6,7 +6,9 @@ const positions = [
     link: '',
     daterange: 'February 2020 - Present',
     points: [
-      'Led Recruiting Operations for site',
+      'Acts as liaison between employee and management to answer questions or concerns regarding company policies, practices and regulations.',
+      'Process, verify and maintain various documentations for hiring, training and performance evaluations.',
+      'Engages with employees and managers to ensure team is in compliance with company policies'
     ],
   }, 
   {
@@ -15,11 +17,10 @@ const positions = [
     link: '',
     daterange: 'September 2017 - February 2020',
     points: [
-      'Created a new financial product for private equity investing. Deployed models to predict the valuation of art at auction.',
-      'Lead development team, set development lifecycle, and managed analytics and web products.',
-      'Built production on-line ETL Pipelines on Kubernetes with Pandas, Postgres, and Kubeflow on GCP.',
-      'Solved end-to-end optimization problems with MCMC, Modern Portfolio Theory, GLM, etc. using Pandas, Numpy, Scikit, Theano, PyMC3, and Jupyter.',
-      'YC Alumn. Worked on everything. Built a 16-person team.',
+      ' Ensures data integrity in MyTime systems, Salesforce etc. for over 3000 associates at site level',
+      'Organizes all HR department records, employment files and drive associate engagements',
+      'Creates and maintain over 28 macro-enabled HR spreadsheets for efficient associate engagements weekly using VBA code'
+      ,
     ],
   }, 
 
