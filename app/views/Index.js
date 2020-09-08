@@ -9,10 +9,11 @@ const Index = () => (
       <header>
         <div className="title">
           <h2><Link to="/">WELCOME !</Link></h2>
-          <p>This is a continously updated website to tell you about myself</p>
+          <p>Welcome to my personal Website </p>
         </div>
       </header>
-      <p> Please feel free to read more <Link to="/about">about me</Link>,
+      <p> Beware, this area contains a lot of facts, thoughts, ideas and developments
+        biased to my own reasoning. Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/Works">Works</Link>, {' '}

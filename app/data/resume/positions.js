@@ -2,9 +2,9 @@
 const positions = [
   {
     company: 'Amazon',
-    position: 'Human Resources Generalist II',
-    link: '',
-    daterange: 'February 2020 - Present',
+    position: 'Human Resources Assistant III',
+    link: 'https://www.amazon.jobs/en/',
+    daterange: 'June 2020 - Present',
     points: [
       'Acts as liaison between employee and management to answer questions or concerns regarding company policies, practices and regulations.',
       'Process, verify and maintain various documentations for hiring, training and performance evaluations.',
@@ -13,8 +13,18 @@ const positions = [
   }, 
   {
     company: 'Amazon',
-    position: 'Human Resources Generalist I',
-    link: '',
+    position: 'Human Resources Assistant II',
+    link: 'https://www.amazon.jobs/en/',
+    daterange: 'February 2020 - June 2020',
+    points: [
+      'Acts as liaison between employee and management to answer questions or concerns regarding company policies, practices and regulations.',
+      'Process, verify and maintain various documentations for hiring, training and performance evaluations.',
+    ],
+  }, 
+  {
+    company: 'Amazon',
+    position: 'Human Resources Assistant I',
+    link: 'https://www.amazon.jobs/en/',
     daterange: 'September 2017 - February 2020',
     points: [
       ' Ensures data integrity in MyTime systems, Salesforce etc. for over 3000 associates at site level',
@@ -27,7 +37,7 @@ const positions = [
   {
     company: 'Amazon',
     position: 'Seasonal Process Assistant',
-    link: '',
+    link: 'https://www.amazon.jobs/en/',
     daterange: 'October 2016 - January 2017',
     points: [
       'Provides support and coaching for Associates to improve productivity',
@@ -39,7 +49,7 @@ const positions = [
   {
     company: 'Amazon',
     position: 'Inbound Problem Solver',
-    link: '',
+    link: 'https://www.amazon.jobs/en/',
     daterange: 'July 2015 - September 2017',
     points: [
       'Uses critical thinking skills to evaluate and solve stow associates problems in a timely manner',
@@ -50,7 +60,7 @@ const positions = [
   {
     company: 'Integrity Staffing Solutions',
     position: 'Inbound stow Associate',
-    link: '',
+    link: 'https://www.amazon.jobs/en/',
     daterange: 'May 2015 - July 2015',
     points: [
       'Stows inventory from totes into corresponding bins',

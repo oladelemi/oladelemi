@@ -7,33 +7,33 @@ const randomString = (length) => {
 const pages = [
   {
     route: '/',
-    title: 'Abdulateef Oladele',
+    title: 'Abdulateef Oladelemi',
     heading: 'ABOUT THIS SITE',
   },
   {
     route: '/about',
-    title: 'About | Abdulateef Oladele',
+    title: 'About | Abdulateef Oladelemi',
     heading: 'ABOUT ME',
   },
   {
     route: '/Works',
-    title: 'Works | Abdulateef Oladele',
+    title: 'Works | Abdulateef Oladelemi',
     heading: 'Works',
   },
   {
     route: '/stats',
-    title: 'Stats | Abdulateef Oladele',
+    title: 'Stats | Abdulateef Oladelemi',
     heading: 'STATS',
   },
   {
     route: '/blog',
-    title: 'Blog | Abdulateef Oladele',
+    title: 'Blog | Abdulateef Oladelemi',
     heading: 'BLOG',
   },
 
   {
     route: '/contact',
-    title: 'Contact | Abdulateef Oladele',
+    title: 'Contact | Abdulateef Oladelemi',
     heading: 'CONTACT',
   },
 ];

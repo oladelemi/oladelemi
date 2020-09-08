@@ -14,7 +14,7 @@ const Works = () => (
       <header>
         <div className="title">
           <h2><Link to="/Works">Works</Link></h2>
-          <p>This is a collection of my most recent projects. Usually the ones i'm proud of :)</p>
+          <p>This is a collection of my most recent projects. Well, usually the ones i'm proud of :)</p>
         </div>
       </header>
       {data.map((project) => (

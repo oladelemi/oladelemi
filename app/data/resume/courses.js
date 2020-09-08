@@ -2,27 +2,27 @@ const courses = [
   {
     title: 'Computer & Network Security',
     number: 'CMSC 416',
-    link: '#',
+    link: 'https://egr.vcu.edu/departments/computer/',
     School: 'Virginia CommonWealth University',
   }, {
     title: 'Intro to Natural Language Processing',
     number: 'CMSC 414',
-    link: '#',
+    link: 'https://egr.vcu.edu/departments/computer/',
     School: 'Virginia CommonWealth University',
   }, {
     title: 'Programming Languages',
     number: 'CMSC 403',
-    link: '#',
+    link: 'https://egr.vcu.edu/departments/computer/',
     School: 'Virginia CommonWealth University',
   }, {
     title: 'Intro to Data Science',
     number: 'CMSC 435',
-    link: '#',
+    link: 'https://egr.vcu.edu/departments/computer/',
     School: 'Virginia CommonWealth University',
   }, {
-    title: 'Numerical Optimization',
-    number: 'CME 304',
-    link: 'http://web.Virginia CommonWealth University.edu/class/cme304/',
+    title: 'Natural Language Processing',
+    number: 'CMSC 416',
+    link: 'https://egr.vcu.edu/departments/computer/',
     School: 'Virginia CommonWealth University',
   }, 
 ];

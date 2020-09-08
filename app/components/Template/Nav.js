@@ -6,6 +6,13 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import data from '../../data/contact';
 
+/* TODO - to be added to display pdf in browser later
+    <object data="/Documents/PdfResume.pdf" type="application/pdf" width="300" height="200">
+           <a href ="/Documents/PdfResume.pdf" download className="button">Download Resume</a>
+          </object>
+          */
+
+
 const Nav = () => (
   <section id="sidebar">
     <section id="intro">
@@ -13,22 +20,24 @@ const Nav = () => (
         <img src={`${BASE_PATH}/images/abdulateef.jpg`} alt="Abdulateef" />
       </Link>
       <header>
-        <h2>Abdulateef Oladele</h2>
+        <h2>Abdulateef Oladelemi</h2>
         <p><a href="mailto:oladelemia@gmail.com">oladelemia@gmail.com</a></p>
       </header>
     </section>
 
+    
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Abdulateef. Welcome to my personal Website.</p>
+      <p>Hi, I'm Abdulateef. Welcome to my personal Website.</p>
       <ul className="actions">
         <li>
           <ul>{window.location.pathname !== `${BASE_PATH}/resume` ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
           </ul>
 
+          <ul>{ <a href ="/Documents/PdfResume.pdf" target="_blank" className="button" >Download Resume</a>}</ul>
           
-          <ul>{ <a href ="/Documents/PdfResume.pdf" download className="button">Download Resume</a>}
-        </ul></li>
+        
+        </li>
       </ul>
     </section>
 
@@ -42,7 +51,7 @@ const Nav = () => (
           </li>
         ))}
       </ul>
-      <p className="copyright">&copy; Abdulateef Oladele <Link to="/">oladelemi.com</Link>.</p>
+      <p className="copyright">&copy; Abdulateef Oladelemi <Link to="/">oladelemi.com</Link>.</p>
     </section>
   </section>
 );

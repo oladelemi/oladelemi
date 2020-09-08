@@ -5,8 +5,8 @@ import Helmet from 'react-helmet';
 const PageNotFound = () => (
   <div className="not-found">
     <Helmet title="Page Not Found" />
-    <h1>Page Not Found.</h1>
-    <p>Return to <Link to="/">index</Link>.</p>
+    <h1>Welp, That page is not yet available.</h1>
+    <p>Return to <Link to="/">Homepage</Link>.</p>
   </div>
 );
 
