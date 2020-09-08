@@ -25,7 +25,7 @@ class Main extends Component {
     }
   }
 
-  render() {
+ render() {
     return (
       <div id="wrapper">
         <Helmet titleTemplate="%s | Abdulateef Oladele" defaultTitle="Abdulateef Oladele" />
