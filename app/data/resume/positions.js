@@ -1,10 +1,19 @@
 
 const positions = [
   {
+    company: 'Northrop Grumman',
+    position: 'Aerospace Software Engineer',
+    link: 'https://www.northropgrumman.com/',
+    daterange: 'August 2020 - Present',
+    points: [
+      
+    ],
+  },
+  {
     company: 'Amazon',
-    position: 'Human Resources Assistant III',
+    position: 'Snr. Human Resources Assistant',
     link: 'https://www.amazon.jobs/en/',
-    daterange: 'June 2020 - Present',
+    daterange: 'June 2020 - October 2020',
     points: [
       'Acts as liaison between employee and management to answer questions or concerns regarding company policies, practices and regulations.',
       'Process, verify and maintain various documentations for hiring, training and performance evaluations.',
