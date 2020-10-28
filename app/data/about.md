@@ -1,7 +1,7 @@
 #### Intro
 
 I go by \{Abdulateef\|Lateef\|Teef\}. That's like three different versions of my name i acknowledge so far.
-I am a Software Developer, Cyber Security specialist, Data Scientist, by Day and a Freelancer by Night!
+I am a Software Developer, Data Scientist by Day and a Freelancer by Night!
 
 <br/>
 <br/>
@@ -13,3 +13,4 @@ I am a Software Developer, Cyber Security specialist, Data Scientist, by Day and
 - I don't know all of the horoscopes dates and their meanings
 - I enjoy listening to beats without the music
 - I'm open to collaborate on projects, so please reach out and lets talk
+- Want to run a with me ? I like a good run!

@@ -1,7 +1,7 @@
 const data = {
   age: {
-    label: 'Current age',
-    value: 17,
+    label: 'States Visited',
+    value: 10,
   },
   countries: {
     label: 'Countries visited',
@@ -10,7 +10,7 @@ const data = {
   },
   location: {
     label: 'Current city',
-    value: 'Richmond Virginia USA',
+    value: 'California, USA',
   },
 };
 
