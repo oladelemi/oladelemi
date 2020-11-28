@@ -33,10 +33,11 @@ const data = [
     label: 'Number of spoons',
     value: '0',
   }, {
-    label: 'Number of linter warnings',
+    label: 'Number of commits',
+    // Number of warnings
     // TODO ammend this with a pre-commit hook
     // `npm run lint | grep problems | tail -1 | awk '{print $2}'`
-    value: '0',
+    value: '18',
   }, {
     label: 'Open github issues',
     key: 'open_issues_count',
