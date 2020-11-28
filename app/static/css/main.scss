@@ -28,6 +28,7 @@
 		grid: ( gutters: 1em )
 	));
 
+
 // Base.
 
 	@import 'base/page';
@@ -59,6 +60,7 @@
 	@import 'layout/intro';
 	@import 'layout/footer';
 	@import 'layout/menu';
+	@import 'layout/quotes';
 
 	@import 'views/about';
 	@import 'views/contact';
@@ -67,3 +69,4 @@
 	@import 'views/blog';
 	@import 'views/skills';
 	@import 'views/stats';
+	

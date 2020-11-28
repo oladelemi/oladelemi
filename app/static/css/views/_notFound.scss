@@ -5,9 +5,10 @@
   margin: 5em;
   
 }
-body {
-  
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size:100% auto;
+
+
+.not-found > img{
+  width: auto;
+  height: 300px;
+  padding-bottom: 40px;
 }

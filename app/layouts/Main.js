@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
-
 import ReactGA from 'react-ga';
-
 import Header from '../components/Template/Header';
 import Nav from '../components/Template/Nav';
+import Footer from "../components/Template/Footer"
 
 if (NODE_ENV === 'production') {
   ReactGA.initialize(GA_ID);
@@ -32,9 +31,14 @@ class Main extends Component {
         <Header />
         <div id="main">
           {this.props.children}
+          {!this.props.fullPage && <Footer />}
         </div>
         {!this.props.fullPage && <Nav />}
-      </div>);
+       
+      </div>
+      );
+
+
   }
 }
 
