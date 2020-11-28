@@ -37,7 +37,8 @@ const data = [
     // Number of warnings
     // TODO ammend this with a pre-commit hook
     // `npm run lint | grep problems | tail -1 | awk '{print $2}'`
-    value: '18',
+    value: '20',
+    link: 'https://github.com/oladelemi/oladelemi/commits',
   }, {
     label: 'Open github issues',
     key: 'open_issues_count',
