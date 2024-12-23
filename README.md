@@ -1,4 +1,4 @@
-# oladelemi.github.io
+# oladelemi.com
 
 Template for my personal Website. 
 
