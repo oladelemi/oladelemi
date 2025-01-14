@@ -1,8 +1,6 @@
 # oladelemi.com
 
-Template for my personal Website. 
-
-
+## Template for my personal Website. 
 
 
 
