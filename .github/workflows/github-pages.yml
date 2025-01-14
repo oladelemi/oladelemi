@@ -72,6 +72,16 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: "build"
+      - name: Commit and push build to gh-pages
+        run: |
+          # Ensure we're on the gh-pages branch
+          git checkout gh-pages
+          # Copy build output into the root directory
+          cp -r build/* ./
+          # Commit the changes to the gh-pages branch
+          git add .
+          git commit -m "Deploy static site"
+          git push origin gh-pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
