@@ -22,7 +22,7 @@ module.exports = {
     'jsx-a11y/click-events-have-key-events': 0,
     'jsx-a11y/href-no-hash': 'off',
     'jsx-a11y/no-static-element-interactions': 0,
-    'linebreak-style': ['error','unix'],
+    'linebreak-style': ['error','windows'],
     'no-console': [
       'error',
       {
