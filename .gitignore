@@ -6,6 +6,7 @@ yarn.lock
 
 # keep build directory local 
 .build
+200.html
 
 # Logs
 logs
