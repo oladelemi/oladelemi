@@ -4,6 +4,9 @@ yarn.lock
 # eslint
 .eslintcache
 
+# keep build directory local 
+.build
+
 # Logs
 logs
 *.log
