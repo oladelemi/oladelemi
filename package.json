@@ -19,6 +19,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "deploy": "gh-pages -d build",
+    "cleanup": "rimraf build 200.html",
     "test": "npx jest"
   },
   "dependencies": {
