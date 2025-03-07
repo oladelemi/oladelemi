@@ -17,17 +17,17 @@ const data = [
   {
     quoted: 'Do not pray for an easy life, pray for the strength to endure a difficult one.',
     source: 'Bruce Lee',
-    image: 'https://en.wikipedia.org/wiki/File:Bruce-Lee-as-Kato-1967-retouched.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/02/Bruce-Lee-as-Kato-1967-retouched.jpg',
   },
   {
     quoted: 'Scientists study the world as it is; engineers create the world that has never been.',
     source: 'Theodore von Kármán',
-    image: 'https://en.wikipedia.org/wiki/File:Dr._von_K%C3%A1rm%C3%A1n,_posed_in_his_office_chair_(cropped).jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/83/Dr._von_K%C3%A1rm%C3%A1n%2C_posed_in_his_office_chair_%28cropped%29.jpg',
   },
   {
     quoted: 'The way to get started is to quit talking and begin doing.',
     source: 'Walt Disney',
-    image: 'https://en.wikipedia.org/wiki/File:Walt_Disney_1946.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG',
   },
   {
     quoted: 'The problem is not the problem. The problem is your attitude about the problem.',
@@ -37,12 +37,12 @@ const data = [
   {
     quoted: 'Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world.',
     source: 'Albert Einstein',
-    image: 'https://en.wikipedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg',
   },
   {
-    quoted: 'Treat employees like they make a difference, and they will.',
-    source: 'Jim Goodnight',
-    image: '',
+    quoted: 'Never be limited by other people\'s limited imaginations',
+    source: 'Mae Jemison',
+    image: 'https://en.wikipedia.org/wiki/Mae_Jemison#/media/File:Mae_Carol_Jemison.jpg',
   },
   {
     quoted: 'Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others.',
