@@ -15,10 +15,11 @@
     "source": "public"
   },
   "scripts": {
+    "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js",
+    "build": "rimraf ./build && react-scripts build",
+    "lint": "eslint \"**/*.js\"",
     "predeploy": "npm run build && react-snap",
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "deploy": "gh-pages -d build",
     "test": "npx jest"
   },
   "dependencies": {

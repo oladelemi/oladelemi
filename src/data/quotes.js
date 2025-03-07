@@ -32,7 +32,7 @@ const data = [
   {
     quoted: 'The problem is not the problem. The problem is your attitude about the problem.',
     source: 'Captain Jack Sparrow',
-    image: 'https://en.wikipedia.org/wiki/Jack_Sparrow#/media/File:OriginalSparrow.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/en/d/d2/OriginalSparrow.jpg',
   },
   {
     quoted: 'Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world.',
@@ -42,7 +42,7 @@ const data = [
   {
     quoted: 'Never be limited by other people\'s limited imaginations',
     source: 'Mae Jemison',
-    image: 'https://en.wikipedia.org/wiki/Mae_Jemison#/media/File:Mae_Carol_Jemison.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/55/Mae_Carol_Jemison.jpg',
   },
   {
     quoted: 'Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others.',
@@ -52,7 +52,7 @@ const data = [
   {
     quoted: 'Keep it simple: as simple as possible, but no simpler.',
     source: 'Albert Einstein',
-    image: 'https://en.wikipedia.org/wiki/Albert_Einstein#/media/File:Albert_Einstein_Head_(cropped).jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/14/Albert_Einstein_1947.jpg',
   },
   {
     quoted: 'Leadership is not about being in charge. It is about taking care of those in your charge.',
@@ -112,27 +112,27 @@ const data = [
   {
     quoted: 'Do what you can, with what you have, where you are.',
     source: 'Theodore Roosevelt',
-    image: 'https://en.wikipedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg',
   },
   {
     quoted: 'People dont care how much you know until they know how much you care.',
     source: 'Theodore Roosevelt',
-    image: 'https://en.wikipedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg',
   },
   {
     quoted: 'You dont build a business. You build people, and people build the business.',
     source: 'Zig Ziglar',
-    image: 'https://en.wikipedia.org/wiki/File:Zig_Ziglar_at_Get_Motivated_Seminar,_Cow_Palace_2009-3-24_3.jpg',
+    image: 'https://en.wikipedia.org/wiki/Zig_Ziglar#/media/File:Zig_Ziglar_at_Get_Motivated_Seminar,_Cow_Palace_2009-3-24_3.JPG',
   },
   {
     quoted: 'The strength of the team is each individual member. The strength of each member is the team.',
     source: 'Phil Jackson',
-    image: 'https://en.wikipedia.org/wiki/File:Phil_Jackson_3_cropped.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/Phil_Jackson_3_cropped.jpg',
   },
   {
     quoted: 'Diversity is being invited to the party; inclusion is being asked to dance.',
     source: 'Verna Myers',
-    image: 'https://en.wikipedia.org/wiki/File:Verna_Myers.jpg',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/2b/Verna_Myers.jpg',
   },
   {
     quoted: 'Kind words can be short and easy to speak, but their echoes are truly endless.',
