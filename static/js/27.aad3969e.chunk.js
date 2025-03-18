@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoladelemi=self.webpackChunkoladelemi||[]).push([[27],{2027:function(e,a,s){e.exports=s.p+"static/media/about.6bee427549e1b06ec262.md"}}]);
