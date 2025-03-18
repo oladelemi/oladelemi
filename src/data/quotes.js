@@ -40,14 +40,14 @@ const data = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg',
   },
   {
-    quoted: 'Never be limited by other people\'s limited imaginations',
+    quoted: 'Never be limited by other people\'s limited imaginations.',
     source: 'Mae Jemison',
     image: 'https://upload.wikimedia.org/wikipedia/commons/5/55/Mae_Carol_Jemison.jpg',
   },
   {
-    quoted: 'Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others.',
-    source: 'Jack Welch',
-    image: '',
+    quoted: 'Leadership and learning are indispensable to each other.',
+    source: 'John F. Kennedy',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg',
   },
   {
     quoted: 'Keep it simple: as simple as possible, but no simpler.',
@@ -85,9 +85,9 @@ const data = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Portrait_of_Pablo_Picasso%2C_1908.jpg/220px-Portrait_of_Pablo_Picasso%2C_1908.jpg',
   },
   {
-    quoted: 'There is no innovation and creativity without failure. Period.',
-    source: 'Brené Brown',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Brene_Brown_2012.jpg/220px-Brene_Brown_2012.jpg',
+    quoted: 'Little by little the bird builds its nest.',
+    source: 'Nigerian Proverb',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Yoruba-Dancers-931x598.jpg',
   },
   {
     quoted: 'Hardships often prepare ordinary people for an extraordinary destiny.',

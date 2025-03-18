@@ -8,13 +8,5 @@ const data = [
     date: 'November 12, 2019',
     desc: '',
   },
-  {
-    title: 'Responsive Wedding Website Design',
-    subtitle: 'Web Design',
-    link: 'https://MeetTheAkalas.com',
-    image: '/images/projects/AkalasDesign.png',
-    date: 'January 1, 2020',
-    desc: '',
-  },
 ];
 export default data;

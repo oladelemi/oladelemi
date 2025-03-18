@@ -11,13 +11,12 @@
   "engines": {
     "node": ">=16.x"
   },
-  "reactSnap": {
-    "source": "public"
-  },
   "scripts": {
+    "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js",
     "predeploy": "npm run build && react-snap",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "lint": "eslint \"**/*.js\"",
+    "build": "rimraf ./build && react-scripts build",
     "deploy": "gh-pages -d build",
     "cleanup": "rimraf build public/200.html",
     "test": "npx jest"
@@ -62,7 +61,7 @@
   },
   "browserslist": {
     "production": [
-      ">0.2%",
+      ">0.01%",
       "not dead",
       "not op_mini all"
     ],
