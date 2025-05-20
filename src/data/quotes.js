@@ -1,6 +1,6 @@
 const data = [
   {
-    quoted: 'Ive learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel',
+    quoted: 'I\'ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel',
     source: 'Maya Angelou',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg/220px-Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg',
   },
@@ -90,9 +90,9 @@ const data = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Yoruba-Dancers-931x598.jpg',
   },
   {
-    quoted: 'Hardships often prepare ordinary people for an extraordinary destiny.',
-    source: 'C.S. Lewis',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/C.S._Lewis_%28lightened%29.jpg/220px-C.S._Lewis_%28lightened%29.jpg',
+    quoted: 'I dream with my eyes wide open just so I can see it happen twice',
+    source: 'Bash Oladelemi',
+    image: 'https://avatars.githubusercontent.com/u/39451564?v=4',
   },
   {
     quoted: 'The only limit to our realization of tomorrow will be our doubts of today.',

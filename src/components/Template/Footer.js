@@ -13,7 +13,7 @@ const Footer = () => {
   return (
     <section id="footer_area">
       {/* Display the selected quote */}
-      <div className="quote_header">My favorite Quote of the day:</div>
+      <div className="quote_header">My quote of the day:</div>
       <div id="quote_smash" className="quote_wrapper">
         <div className="quote_text">
           <p className="the_quote">&ldquo;{quoted}&rdquo;</p>
