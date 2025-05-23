@@ -25,31 +25,41 @@ const sections = {
   References: () => <References />,
 };
 
-const Resume = () => (
-  <Main
-    title="Resume"
-    description="Abdulateef Oladelemi's Resume. Software Engineer, SHRM Certified HR professional Artificial Intelligence Engineer."
-  >
-    <article className="post" id="resume">
-      <header>
-        <div className="title">
-          <h2>
-            <Link to="resume">Resume</Link>
-          </h2>
-          <div className="link-container">
-            {Object.keys(sections).map((sec) => (
-              <h4 key={sec}>
-                <a href={`#${sec.toLowerCase()}`}>{sec}</a>
-              </h4>
-            ))}
+const Resume = () => {
+  const [targetRef, setTargetRef] = React.useState(null);
+
+  React.useEffect(() => {
+    if (window.resumeTargetRef) {
+      setTargetRef(window.resumeTargetRef);
+    }
+  }, []);
+
+  return (
+    <Main
+      title="Resume"
+      description="Abdulateef Oladelemi's Resume. Software Engineer, SHRM Certified HR professional Artificial Intelligence Engineer."
+    >
+      <article className="post" id="resume" ref={targetRef}>
+        <header>
+          <div className="title">
+            <h2>
+              <Link to="resume">Resume</Link>
+            </h2>
+            <div className="link-container">
+              {Object.keys(sections).map((sec) => (
+                <h4 key={sec}>
+                  <a href={`#${sec.toLowerCase()}`}>{sec}</a>
+                </h4>
+              ))}
+            </div>
           </div>
-        </div>
-      </header>
-      {Object.entries(sections).map(([name, Section]) => (
-        <Section key={name} />
-      ))}
-    </article>
-  </Main>
-);
+        </header>
+        {Object.entries(sections).map(([name, Section]) => (
+          <Section key={name} />
+        ))}
+      </article>
+    </Main>
+  );
+};
 
 export default Resume;
